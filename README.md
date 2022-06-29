@@ -11,10 +11,3 @@ Esto genera la salida HTML en `html/`, donde `make` es GNU make:
 
     npm install
     make html
-
-Para crear el archivo PDF (no se moleste en intentarlo a menos que realmente necesite
-ya que esta lista probablemente se ha vuelto a romper y obtener todo esto
-configurar es un dolor):
-
-    apt-get install texlive texlive-xetex fonts-inconsolata fonts-symbola inkscape
-    make book.pdf
