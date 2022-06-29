@@ -16,5 +16,5 @@ Para crear el archivo PDF (no se moleste en intentarlo a menos que realmente nec
 ya que esta lista probablemente se ha vuelto a romper y obtener todo esto
 configurar es un dolor):
 
-    apt-get install texlive texlive-xetex fonts-inconsolata fonts-symbola texlive-lang-chinese inkscape
+    apt-get install texlive texlive-xetex fonts-inconsolata fonts-symbola inkscape
     make book.pdf
